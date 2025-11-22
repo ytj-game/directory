@@ -17,36 +17,32 @@
 <!-- 以下为游戏目录 -->
 
 #### 1. 承認、拒否
-<div style="padding-left: 2em;">
 
-  #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/Android-承認、拒否.zip)
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/Android-承認、拒否.zip)
 
-  #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/PC-承認、拒否.zip)
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/PC-承認、拒否.zip)
 
-  #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)
+  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)
 
-</div>
 
-#### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
+<!-- #### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
 
-  #### &nbsp;&nbsp;&nbsp;&nbsp; [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  #### &nbsp;&nbsp;&nbsp;&nbsp; [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  #### &nbsp;&nbsp;&nbsp;&nbsp; **解压密码传送门**  [快捷链接]()
+  - #### **解压密码传送门**  [快捷链接]() -->
 
 
 <!-- 
 
 #### name
-<div style="padding-left: 2em;">
 
-  #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  #### **解压密码传送门**  [快捷链接]()
+  - #### **解压密码传送门**  [快捷链接]()
 
-</div>
 
 -->
