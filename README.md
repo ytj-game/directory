@@ -25,13 +25,13 @@
   - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)
 
 
-<!-- #### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
+#### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
 
-  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.0/Android_.zip)
 
-  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.0/PC_.zip)
 
-  - #### **解压密码传送门**  [快捷链接]() -->
+  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/80503c9b43444b449eef709f29bb81eb)
 
 
 <!-- 
