@@ -48,7 +48,7 @@
 
   - #### [点此下载PC版 分卷2](https://github.com/ytj-game/directory/releases/download/v1.0.2/V12.zip.002) 分卷1和分卷2全部下载
 
-  - #### **解压密码传送门**  [快捷链接]()
+  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f35f790c0cd94fb8b93232cabe34809a)
 
 #### 5.古式按摩店
 
