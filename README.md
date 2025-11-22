@@ -27,16 +27,14 @@
 
 </div>
 
-<!-- #### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
-<div style="padding-left: 2em;">
+#### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
 
-  #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  #### &nbsp;&nbsp;&nbsp;&nbsp; [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  #### &nbsp;&nbsp;&nbsp;&nbsp; [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  #### **解压密码传送门**  [快捷链接]()
+  #### &nbsp;&nbsp;&nbsp;&nbsp; **解压密码传送门**  [快捷链接]()
 
-</div> -->
 
 <!-- 
 
