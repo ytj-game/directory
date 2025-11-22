@@ -34,6 +34,14 @@
   - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/80503c9b43444b449eef709f29bb81eb)
 
 
+#### 3.妃咲的别梦依稀
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.1/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.1/PC_.zip)
+
+  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4216c22623ca4f7798f4f924ac96e434)
+
 <!-- 
 
 #### name
