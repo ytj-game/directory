@@ -3,25 +3,52 @@
 
   # B站UP[芋头姬](https://space.bilibili.com/3493134566689674)的游戏备用仓库
 
-  #### 推荐资源下载地址 →[夸克网盘](https://pan.quark.cn/s/06d18df59475)←
-
   ###### 仓库更新不及时, 请多关注[B站账号](https://space.bilibili.com/3493134566689674)及[网盘](https://pan.quark.cn/s/06d18df59475)更新
 
+  #### 完整资源下载地址 →[夸克网盘](https://pan.quark.cn/s/06d18df59475)←
 
-
-  # 压缩包密码在[夸克网盘](https://pan.quark.cn/s/06d18df59475)对应文件夹下下载查看
+  #### 解压密码在[网盘](https://pan.quark.cn/s/06d18df59475)对应文件夹==下载查看==, 或者在游戏词条有快捷跳转
 </div>
+
+### 解压教程: [电脑教程](https://www.bilibili.com/video/BV1xZ4y1v7pU) &nbsp;&nbsp; [手机教程](https://www.bilibili.com/video/BV12Dt7zJEb9)
 
 <h1> 游戏目录 </h1>
 
-<!-- #### 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
+<!-- 以下为游戏目录 -->
 
-#### [点此直接下载](https://raw.githubusercontent.com/ytj-game/directory/main/README.md)
-##### 请访问夸克网盘对应文件夹, 下载密码压缩包  [快捷链接](https://pan.quark.cn/s/06d18df59475#/list/share/2ff18be8caa349db8234b58ada71b73d) -->
+#### 1. 承認、拒否
+<div style="padding-left: 2em;">
 
+  #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/Android-承認、拒否.zip)
 
-#### 承認、拒否
+  #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/PC-承認、拒否.zip)
 
-#### [点此直接下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/Android-承認、拒否.zip)
-#### [点此直接下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/PC-承認、拒否.zip)
-##### 请访问夸克网盘对应文件夹, 下载密码压缩包  [快捷链接](https://pan.quark.cn/s/06d18df59475#/list/share/2ff18be8caa349db8234b58ada71b73d)
+  #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)
+
+</div>
+
+<!-- #### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
+<div style="padding-left: 2em;">
+
+  #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  #### **解压密码传送门**  [快捷链接]()
+
+</div> -->
+
+<!-- 
+
+#### name
+<div style="padding-left: 2em;">
+
+  #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  #### **解压密码传送门**  [快捷链接]()
+
+</div>
+
+-->
