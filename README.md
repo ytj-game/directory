@@ -22,7 +22,7 @@
 
   - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/PC-承認、拒否.zip)
 
-  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)**  
 
 
 #### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
@@ -31,7 +31,7 @@
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.0/PC_.zip)
 
-  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/80503c9b43444b449eef709f29bb81eb)
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/80503c9b43444b449eef709f29bb81eb)**
 
 
 #### 3.妃咲的别梦依稀
@@ -40,7 +40,7 @@
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.1/PC_.zip)
 
-  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4216c22623ca4f7798f4f924ac96e434)
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4216c22623ca4f7798f4f924ac96e434)**  
 
 #### 4.绯月仙行录V12月最终版
 
@@ -48,19 +48,25 @@
 
   - #### [点此下载PC版 分卷2](https://github.com/ytj-game/directory/releases/download/v1.0.2/V12.zip.002) 分卷1和分卷2全部下载
 
-  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f35f790c0cd94fb8b93232cabe34809a)
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f35f790c0cd94fb8b93232cabe34809a)**  
 
 #### 5.古式按摩店
 
   - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.3/Android_.zip)
 
-  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/baec794903b44d798d431a243625d946)
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/baec794903b44d798d431a243625d946)**
 
 #### 6.合欢宗女修传v0.175版本
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.4/PC_.zip)
 
-  - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/de14c5f9b3874fc39dfddb78ae864e74)
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/de14c5f9b3874fc39dfddb78ae864e74)**
+
+#### 7.頑張れチカちゃん
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/頑張れチカちゃん/PC_頑張れチカちゃん.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/dfb0d822de1f456fbd45bc5912a8c996)**  
 
 
 <!-- 
@@ -71,7 +77,7 @@
 
   - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  - #### **解压密码传送门**  [快捷链接]()
+  - #### **解压密码 [传送门]()**  
 
 
 -->
