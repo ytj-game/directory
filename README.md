@@ -44,9 +44,9 @@
 
 #### 4.绯月仙行录V12月最终版
 
-  - #### [点此下载PC版 分卷1](https://github.com/ytj-game/directory/releases/download/v1.0.2/) 分卷1和分卷2全部下载
+  - #### [点此下载PC版 分卷1](https://github.com/ytj-game/directory/releases/download/v1.0.2/V12.zip.001) 分卷1和分卷2全部下载
 
-  - #### [点此下载PC版 分卷2](https://github.com/ytj-game/directory/releases/download/v1.0.2/) 分卷1和分卷2全部下载
+  - #### [点此下载PC版 分卷2](https://github.com/ytj-game/directory/releases/download/v1.0.2/V12.zip.002) 分卷1和分卷2全部下载
 
   - #### **解压密码传送门**  [快捷链接]()
 
