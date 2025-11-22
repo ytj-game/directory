@@ -93,13 +93,25 @@
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/454a3e7da15644ac87cf7245ccc16334)** 
   - ##### 追加内容代码：chr4lag0tc4u9h7
 
-#### name
+#### 11.刘禅养成计划
 
-  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.7/Android_.zip)
 
-  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.7/PC_.zip)
 
-  - #### **解压密码 [传送门]()** 
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/15f90314aff24368ab54014f9b861eb6)** 
+
+#### 12.女拳主義
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.8/Android_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a26af127066048d0b029be4945869cdb)**  
+
+#### 13.神画怪盗
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.9/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/9d8dbe73705b4d348c75b61a35ead187)**  
 
 
 <!-- 
