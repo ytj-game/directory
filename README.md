@@ -68,6 +68,39 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/dfb0d822de1f456fbd45bc5912a8c996)**  
 
+#### 8.护身术道场
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.5/Android_.zip)
+
+  - #### [作弊存档下载](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/护身术道场/user_data0.es3)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/ce8957550d3947c2b0a4b5416a622a24)** 
+
+#### 9.甲賀流エロニンジャロンロン
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.6/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.6/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/00560a81d73d47fdb8765d62858bd8dc)** 
+
+#### 10.库拉拉酱逃不掉了
+
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/库拉拉酱逃不掉了/Android_库拉拉酱逃不掉了.zip)
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/库拉拉酱逃不掉了/PC_库拉拉酱逃不掉了.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/454a3e7da15644ac87cf7245ccc16334)** 
+  - ##### 追加内容代码：chr4lag0tc4u9h7
+
+#### name
+
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  - #### **解压密码 [传送门]()** 
+
 
 <!-- 
 
