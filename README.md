@@ -42,13 +42,21 @@
 
   - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4216c22623ca4f7798f4f924ac96e434)
 
-#### 4.古式按摩店
+#### 4.绯月仙行录V12月最终版
+
+  - #### [点此下载PC版 分卷1](https://github.com/ytj-game/directory/releases/download/v1.0.2/) 分卷1和分卷2全部下载
+
+  - #### [点此下载PC版 分卷2](https://github.com/ytj-game/directory/releases/download/v1.0.2/) 分卷1和分卷2全部下载
+
+  - #### **解压密码传送门**  [快捷链接]()
+
+#### 5.古式按摩店
 
   - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.3/Android_.zip)
 
   - #### **解压密码传送门**  [快捷链接](https://pan.quark.cn/s/9fc0f603db2b#/list/share/baec794903b44d798d431a243625d946)
 
-#### 5.合欢宗女修传v0.175版本
+#### 6.合欢宗女修传v0.175版本
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.4/PC_.zip)
 
