@@ -3,11 +3,11 @@
 
   # B站UP[芋头姬](https://space.bilibili.com/3493134566689674)的游戏备用仓库
 
+  ##### 解压密码在[网盘](https://pan.quark.cn/s/06d18df59475)对应文件夹==下载查看==, 或者在游戏词条有快捷跳转
+
   ###### 仓库更新不及时, 请多关注[B站账号](https://space.bilibili.com/3493134566689674)及[网盘](https://pan.quark.cn/s/06d18df59475)更新
 
-  #### 完整资源下载地址 →[夸克网盘](https://pan.quark.cn/s/06d18df59475)←
-
-  #### 解压密码在[网盘](https://pan.quark.cn/s/06d18df59475)对应文件夹==下载查看==, 或者在游戏词条有快捷跳转
+  ##### 完整资源下载地址 →[夸克网盘](https://pan.quark.cn/s/06d18df59475)←
 </div>
 
 ### 解压教程: [电脑教程](https://www.bilibili.com/video/BV1xZ4y1v7pU) &nbsp;&nbsp; [手机教程](https://www.bilibili.com/video/BV12Dt7zJEb9)
@@ -123,6 +123,5 @@
   - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
   - #### **解压密码 [传送门]()**  
-
 
 -->
