@@ -7,7 +7,7 @@
 
   ###### 仓库更新不及时, 请多关注[B站账号](https://space.bilibili.com/3493134566689674)及[网盘](https://pan.quark.cn/s/06d18df59475)更新
 
-  ##### 完整资源下载地址 →[夸克网盘](https://pan.quark.cn/s/06d18df59475)←
+  ##### 完整资源下载地址 →[分卷1](https://pan.quark.cn/s/fcf036bf6511) - [分卷2](https://pan.quark.cn/s/6a8ea15f18bb)←
 </div>
 
 ### 解压教程: [电脑教程](https://www.bilibili.com/video/BV1xZ4y1v7pU) &nbsp;&nbsp; [手机教程](https://www.bilibili.com/video/BV12Dt7zJEb9)
@@ -233,13 +233,13 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/69fe2960d1954c15b222d8bcfa9ea7f4)**
 
-<!-- #### name
+#### 32.トキトメ男の寿命ライフ時を止める絶倫男
 
-  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.25/Android_.zip)
 
-  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.25/PC_.zip)
 
-  - #### **解压密码 [传送门]()** -->
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a03529a308904c85bb8b08c674877991)**
 
 <!--
 
