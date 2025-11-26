@@ -135,11 +135,57 @@
 
 #### 17.小巷子里的秘密事情
 
-  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.13/Android_.zip)
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.13/Android_.v1.13.32.zip)
 
-  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.13/PC_.zip)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.13/PC_.v1.13.32.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/9386fd58de6d4c1d9822524259702a47)**
+
+#### 18.银界の砦
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.14/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/106163ee217f4155a20f4acdc08bc463)**
+
+#### 19.銀白の追憶
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.15/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/160cd58a99914fc38e91d4149689c294)**
+
+#### 20.与上官月相处的时光
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.16/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/16d42a441cd44297b5f85171ff490b9a)**
+
+#### 21.谪仙索欢录
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.17/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a18fd00d30244df89beee3eed3f5e0e3)**
+
+#### 22.纸巾盒八部曲
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.18/Android_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/be47769829a64879bf705a7126e7aa3d)**
+
+#### 23.Jam packed line tale
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.19/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.19/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/fcd3ebe084cf4a349cde26a62736f9bf)**
+
+<!-- #### name
+
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  - #### **解压密码 [传送门]()** -->
 
 
 <!--
