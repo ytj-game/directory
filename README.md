@@ -209,9 +209,21 @@
 
 #### 28.お姉ちゃんは弟くんに襲われたい!～Live2D
 
-  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.22/Android_Nightgamer.zip)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.22/PC_.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/b46b714324d944a2bffd0987c6af1c2e)**
+
+#### 29.おしおき娘々
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.23/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/621227db94514951b79ebbb501dd4324)**
+
+#### 30.ギャラクシーウーマン～巨大ヒ
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/ギャラクシーウーマン～巨大ヒ/PC_ギャラクシーウーマン～巨大ヒ.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/8389581ee5af44da87b28efd115e5600)**
 
 <!--
 
