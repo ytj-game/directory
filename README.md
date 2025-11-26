@@ -241,6 +241,14 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a03529a308904c85bb8b08c674877991)**
 
+#### 33.堕落精灵·芙蕾雅
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.26/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.26/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4c8a8c524d374e279e900dab85a8f178)**
+
 <!--
 
 #### name
