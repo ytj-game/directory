@@ -195,12 +195,23 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/dce6e36bd66e48c98159b57f60cdc58b)**
 
-#### name
+#### 26.Streets of Ryona EX
 
   - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/Streets-of-Ryona-EX/Android_Streets-of-Ryona-EX.zip)
 
-  - #### **解压密码 [传送门]()**
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a4699b64bf8746e08ba1c28e32c952a8)**
 
+#### 27.succubus hunt for me
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/succubus-hunt-for-me/PC_succubus-hunt-for-me.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/7e3c5fe987f24ff6a965696404f28b6f)**
+
+#### 28.お姉ちゃんは弟くんに襲われたい!～Live2D
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.22/Android_Nightgamer.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/b46b714324d944a2bffd0987c6af1c2e)**
 
 <!--
 
