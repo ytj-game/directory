@@ -22,7 +22,7 @@
 
   - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/承認、拒否/PC-承認、拒否.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)**  
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/c75111c0679f4b6a8c7f79d3d18ec987)**
 
 
 #### 2. 爆汝エルフ嫁と早漏くん ～催○寝取られ盗み見録～
@@ -40,7 +40,7 @@
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.1/PC_.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4216c22623ca4f7798f4f924ac96e434)**  
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4216c22623ca4f7798f4f924ac96e434)**
 
 #### 4.绯月仙行录V12月最终版
 
@@ -48,7 +48,7 @@
 
   - #### [点此下载PC版 分卷2](https://github.com/ytj-game/directory/releases/download/v1.0.2/V12.zip.002) 分卷1和分卷2全部下载
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f35f790c0cd94fb8b93232cabe34809a)**  
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f35f790c0cd94fb8b93232cabe34809a)**
 
 #### 5.古式按摩店
 
@@ -66,7 +66,7 @@
 
   - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/頑張れチカちゃん/PC_頑張れチカちゃん.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/dfb0d822de1f456fbd45bc5912a8c996)**  
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/dfb0d822de1f456fbd45bc5912a8c996)**
 
 #### 8.护身术道场
 
@@ -74,7 +74,7 @@
 
   - #### [作弊存档下载](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/护身术道场/user_data0.es3)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/ce8957550d3947c2b0a4b5416a622a24)** 
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/ce8957550d3947c2b0a4b5416a622a24)**
 
 #### 9.甲賀流エロニンジャロンロン
 
@@ -82,7 +82,7 @@
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.6/PC_.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/00560a81d73d47fdb8765d62858bd8dc)** 
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/00560a81d73d47fdb8765d62858bd8dc)**
 
 #### 10.库拉拉酱逃不掉了
 
@@ -99,22 +99,50 @@
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.7/PC_.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/15f90314aff24368ab54014f9b861eb6)** 
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/15f90314aff24368ab54014f9b861eb6)**
 
 #### 12.女拳主義
 
   - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.8/Android_.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a26af127066048d0b029be4945869cdb)**  
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a26af127066048d0b029be4945869cdb)**
 
 #### 13.神画怪盗
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.9/PC_.zip)
 
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/9d8dbe73705b4d348c75b61a35ead187)**  
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/9d8dbe73705b4d348c75b61a35ead187)**
+
+#### 14.时间停止幻想乡
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.10/Android_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/6c303d44b31b49499e92bdb82a35ae43)**
+
+#### 15.兔女郎的奇妙异星冒险
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.11/Android_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/565ee1c48f454744b5a8bd93c8afaa02)**
+
+#### 16.汚部屋の姫
+
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/汚部屋の姫/Android_汚部屋の姫.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.12/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/81919b50ffb640ffbb5cd63b8333bae4)**
+
+#### 17.小巷子里的秘密事情
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.13/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.13/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/9386fd58de6d4c1d9822524259702a47)**
 
 
-<!-- 
+<!--
 
 #### name
 
@@ -122,6 +150,6 @@
 
   - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
 
-  - #### **解压密码 [传送门]()**  
+  - #### **解压密码 [传送门]()**
 
 -->
