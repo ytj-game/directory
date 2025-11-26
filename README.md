@@ -225,6 +225,22 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/8389581ee5af44da87b28efd115e5600)**
 
+#### 31.でいどりーむ
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.24/PC_.zip)
+
+  - #### [点此下载存档](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/でいどりーむ/SAVE.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/69fe2960d1954c15b222d8bcfa9ea7f4)**
+
+<!-- #### name
+
+  - #### [点此下载Android版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  - #### [点此下载PC版](https://raw.githubusercontent.com/ytj-game/directory/main/游戏/)
+
+  - #### **解压密码 [传送门]()** -->
+
 <!--
 
 #### name
