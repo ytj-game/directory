@@ -3,7 +3,7 @@
 
   # B站UP[芋头姬](https://space.bilibili.com/3493134566689674)的游戏备用仓库
 
-  ##### 解压密码在[网盘](https://pan.quark.cn/s/06d18df59475)对应文件夹==下载查看==, 或者在游戏词条有快捷跳转
+  ##### 解压密码在[网盘](https://pan.quark.cn/s/06d18df59475)对应文件夹**下载查看**, 或者在游戏词条有快捷跳转
 
   ###### 仓库更新不及时, 请多关注[B站账号](https://space.bilibili.com/3493134566689674)及[网盘](https://pan.quark.cn/s/06d18df59475)更新
 
@@ -248,6 +248,14 @@
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.26/PC_.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/4c8a8c524d374e279e900dab85a8f178)**
+
+#### 34.雌小鬼义妹一败涂地的诱惑生活
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.27/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.27/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a9137134116b4b63a65a574ed6bb9ec1)**
 
 <!--
 
