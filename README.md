@@ -12,6 +12,8 @@
 
 ### 解压教程: [电脑教程](https://www.bilibili.com/video/BV1xZ4y1v7pU) &nbsp;&nbsp; [手机教程](https://www.bilibili.com/video/BV12Dt7zJEb9)
 
+###### 为什么还要在网盘塞密码? 你给我发工资不设密码都行
+
 <h1> 游戏目录 </h1>
 
 <!-- 以下为游戏目录 -->
@@ -256,6 +258,14 @@
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.27/PC_.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a9137134116b4b63a65a574ed6bb9ec1)**
+
+#### 35.忧郁的安娜
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.28/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.28/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/07e443edf939439d96dcc4cdba9278c6)**
 
 <!--
 
