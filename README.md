@@ -267,6 +267,14 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/07e443edf939439d96dcc4cdba9278c6)**
 
+#### 36.純粋無垢な教え子と二人だけの特別授業
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.29/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.29/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f38c65268f4049c3abf29e3736deb01d)**
+
 <!--
 
 #### name
