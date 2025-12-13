@@ -275,14 +275,6 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/f38c65268f4049c3abf29e3736deb01d)**
 
-#### 37.白嫖卷
-
-  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.30/Android_.zip)
-
-  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.30/PC_.zip)
-
-  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/814877eca647466697c554c84f45d822)**
-
 <!--
 
 #### name
