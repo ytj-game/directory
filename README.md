@@ -281,6 +281,12 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/814877eca647466697c554c84f45d822)**
 
+#### 38.魔法少女ヒカリ
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.31/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/e7428069ea944346be29211fbed3ac86)**
+
 <!--
 
 #### name
