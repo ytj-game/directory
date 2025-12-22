@@ -287,6 +287,14 @@
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/e7428069ea944346be29211fbed3ac86)**
 
+#### 39.夏哈塔的遭难日
+
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.32/Android_.zip)
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.32/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/0c13af9b53734a5db0438759868851e1)**
+
 <!--
 
 #### name
