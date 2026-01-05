@@ -255,7 +255,7 @@
 
   - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.27/Android_.zip)
 
-  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.27/PC_.zip)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/rel密eases/download/v1.0.27/PC_.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/a9137134116b4b63a65a574ed6bb9ec1)**
 
@@ -294,6 +294,18 @@
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.32/PC_.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/0c13af9b53734a5db0438759868851e1)**
+
+#### 40.バレちゃダメ
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.33/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/53c5ce170a584fd19682e8fac82e0aea)**
+
+#### 41.女退魔師レイカ
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.34/PC_.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/bc54f4f6fec0471c88228065d06fa8f6)**
 
 <!--
 
