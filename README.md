@@ -7,7 +7,7 @@
 
   ###### 仓库更新不及时, 请多关注[B站账号](https://space.bilibili.com/3493134566689674)及[网盘](https://pan.quark.cn/s/06d18df59475)更新
 
-  ##### 完整资源下载地址 →[分卷1](https://pan.quark.cn/s/fcf036bf6511) - [分卷2](https://pan.quark.cn/s/6a8ea15f18bb)←
+  ##### 完整资源下载地址 →[分卷1](https://pan.quark.cn/s/f22920c2e116) - [分卷2](https://pan.quark.cn/s/dcef566f4a85)←
 </div>
 
 ### 解压教程: [电脑教程](https://www.bilibili.com/video/BV1xZ4y1v7pU) &nbsp;&nbsp; [手机教程](https://www.bilibili.com/video/BV12Dt7zJEb9)
@@ -306,6 +306,14 @@
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.34/PC_.zip)
 
   - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/bc54f4f6fec0471c88228065d06fa8f6)**
+
+#### 42.おしおき娘々R
+
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.35/PC_.R.zip)
+
+  - #### [点此下载CG](https://github.com/ytj-game/directory/releases/download/v1.0.35/CG_.R.zip)
+
+  - #### **解压密码 [传送门](https://pan.quark.cn/s/9fc0f603db2b#/list/share/3911745aa27945dda5197fc05b2c392c)**
 
 <!--
 
