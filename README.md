@@ -21,20 +21,11 @@
 
 <!----------------------目录区域---------------------->
 
-<style>
-/* summary 字体大小 */
-details summary {
-  font-size: 1.3rem; /* 调整为想要的大小，比如 1.2rem、18px 等 */
-  color: #5413e0ff;
-  cursor: pointer;
-}
-</style>
-
 
 ## 🤝 游戏目录
 
 <details>
-<summary>点击左侧箭头展开查看游戏大目录 </summary>
+<summary>->点击查看游戏目录<- </summary>
 
 - [001. 爆汝エルフ嫁と早漏くん～催○寝取られ盗み見録～](#game-001)
 - [002. 承認、拒否](#game-002)
