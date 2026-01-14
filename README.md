@@ -1,16 +1,16 @@
 <!----------------------标题居中区---------------------->
 
 <div align="center">
-  <img src=".class/img/Avatar.webp" alt="avatar" width = "200">
+  <img src="https://i0.hdslb.com/bfs/face/a7cba12fd83088cbb729055c84e90e412e6423bd.jpg@128w_128h_1c_1s.webp" alt="avatar" width = "200">
 
 
-  # B站UP[芋头姬](https://space.bilibili.com/3493134566689674)的游戏备用仓库
+  ## B站UP[芋头姬](https://space.bilibili.com/3493134566689674)的游戏备用仓库
 
   ##### 解压密码在[夸克网盘](https://pan.quark.cn/s/7bb5f0120271)/[百度网盘](https://pan.baidu.com/s/1CmGb8J_VNKue_JrDDdJhzw?pwd=1145)对应文件夹**下载查看**, 建议在游戏词条使用快捷跳转
 
   ###### 仓库更新不及时, 请多关注[B站账号](https://space.bilibili.com/3493134566689674)及[QQ频道](https://pd.qq.com/s/de2y2dbzc)更新
 
-  ##### 完整资源下载地址 →[夸克网盘](https://pan.quark.cn/s/2ee47fce8021) - [百度网盘](https://pan.baidu.com/s/1EN__3xzQLc195KbLq5ukcg?pwd=zbxn)←
+  ##### 原资源下载地址 →[夸克网盘](https://pan.quark.cn/s/2ee47fce8021) - [百度网盘](https://pan.baidu.com/s/1EN__3xzQLc195KbLq5ukcg?pwd=zbxn)←
 </div>
 
 <!----------------------教程区域---------------------->
