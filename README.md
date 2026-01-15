@@ -87,7 +87,7 @@
 
   - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.0/PC_.zip)
 
-  - #### **解压密码 [夸克传送门](https://pan.quark.cn/s/7bb5f0120271#/list/share/466f9e03e2484fc497b7299fd60417e4) / [百度传送门](https://pan.baidu.com/s/1bQ2EEzFLcYEKV3JNjzJhLA?pwd=1145#list/path=%2F%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81_txt%2F001)**
+  - #### **解压密码 [夸克传送门](https://pan.quark.cn/s/7bb5f0120271#/list/share/bfca507aa639494a9fb48f5b818606ed) / [百度传送门](https://pan.baidu.com/s/1bQ2EEzFLcYEKV3JNjzJhLA?pwd=1145#list/path=%2F%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81_txt%2F001)**
 
 
 <a id="game-002"></a>
