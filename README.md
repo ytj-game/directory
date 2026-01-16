@@ -147,7 +147,7 @@
 
 #### 006. 合欢宗女修传v0.175版本
 
-  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.4/PC_.zip)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.4/PC_.v0.175.zip)
 
   - #### **解压密码 [夸克传送门](https://pan.quark.cn/s/7bb5f0120271#/list/share/fb1746ced82a4d948b3d5306255e5a3f) / [百度传送门](https://pan.baidu.com/s/17ABJ8pTRRMk-KLhGVNNPfg?pwd=1145#list/path=%2F%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%2F006)**
 
