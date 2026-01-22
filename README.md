@@ -361,9 +361,11 @@
 
 #### 024. Monster girl assault
 
-  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.20/Android_.zip)
+  - #### [点此下载Android版](https://github.com/ytj-game/directory/releases/download/v1.0.20/Android_Monster.girl.assault.zip
+)
 
-  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.20/PC_.zip)
+  - #### [点此下载PC版](https://github.com/ytj-game/directory/releases/download/v1.0.20/PC_Monster.girl.assault.zip
+)
 
   - #### **解压密码 [夸克传送门](https://pan.quark.cn/s/7bb5f0120271#/list/share/cd7730a7859f4ce4bb4e422e67a0ee5c) / [百度传送门](https://pan.baidu.com/s/17ABJ8pTRRMk-KLhGVNNPfg?pwd=1145#list/path=%2F%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%2F024)**
 
